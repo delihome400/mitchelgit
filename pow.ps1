@@ -1,2 +1,2 @@
 Get-Service -Name ‘spooler’
-Testregel (commit 4)
+Start-Service -Name 'spooler'
